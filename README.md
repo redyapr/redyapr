@@ -1,4 +1,4 @@
-- 👋 Hi, I’m [Redy Apriyadi](https://github.com/redyapr)
+- 👋 Hi, I’m [Redy Apriyadi](https://redyapr.com)
 - 👀 I’m interested in adventure sport
 - 🌱 I’m currently learning sky diving
 - 💞️ I’m looking to collaborate on my upcoming product
