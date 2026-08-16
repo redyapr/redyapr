@@ -19,13 +19,9 @@
 
 <br clear="left"/>
 
-**[TREFOZERI](https://redyapr.github.io/trefozeri/)** — live XAUUSD/BTCUSD S/R signal dashboard
-
 ### 📊 GitHub stats
 
 <p align="left">
   <img height="165" src="./profile/stats.svg" />
   <img height="165" src="https://streak-stats.demolab.com/?user=redyapr&theme=dark&hide_border=true" />
 </p>
-
-<img src="./profile/top-langs.svg" />
